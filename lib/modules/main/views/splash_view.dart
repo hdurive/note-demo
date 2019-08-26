@@ -46,9 +46,7 @@ class _SplashViewState extends State<SplashView> {
   }
 
   void navigationPage() {
-    print("navigationPage");
     streamSubscription = SharedMemory.streamIsLogged.stream.listen((value) {
-      print("navigationPage");
       if (value != null) {
         HomeView.openView(context);
       } else {

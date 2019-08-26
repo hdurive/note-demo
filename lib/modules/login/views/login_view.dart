@@ -39,7 +39,7 @@ class _LoginViewState extends State<LoginView> {
       if (value != null) {
         HomeView.openView(context);
       } else {
-        print("logeado error");
+        print("loggin error");
       }
     });
   }
