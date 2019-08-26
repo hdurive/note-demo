@@ -1,6 +1,6 @@
-# notish
+# Note Demo
 
-Note shared app
+Note flutter demo app
 
 ## Getting Started
 
