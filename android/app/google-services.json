@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "1061330149592",
+    "firebase_url": "https://noteflush.firebaseio.com",
+    "project_id": "noteflush",
+    "storage_bucket": "noteflush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061330149592:android:c10b649b313b8bc2",
+        "android_client_info": {
+          "package_name": "com.dsoles.mobile.noteflush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061330149592-4989b3daliub0eepmn9i8hji9u9chlaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsoles.mobile.noteflush",
+            "certificate_hash": "49e61ae57b2655c5b7a5e22f1887994871e29b84"
+          }
+        },
+        {
+          "client_id": "1061330149592-ka05m93k1s0r31rkad1rs6pftnhlk1ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0C5xGpgRJe1Wnb2iZr9idtdLx7ZSi7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061330149592-88bpsffm3pccul41bjssdp8v3q8ue7bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061330149592-tk75u438ipc7hhjqpnqs4q4tak7tuqo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsoles.mobile.noteflush.debug"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061330149592:android:398137223c6b7a0d",
+        "android_client_info": {
+          "package_name": "com.dsoles.mobile.noteflush.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061330149592-ocoljf88ogc1num5uf5u49qpkaq30kae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dsoles.mobile.noteflush.debug",
+            "certificate_hash": "49e61ae57b2655c5b7a5e22f1887994871e29b84"
+          }
+        },
+        {
+          "client_id": "1061330149592-ka05m93k1s0r31rkad1rs6pftnhlk1ms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo0C5xGpgRJe1Wnb2iZr9idtdLx7ZSi7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061330149592-88bpsffm3pccul41bjssdp8v3q8ue7bl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1061330149592-tk75u438ipc7hhjqpnqs4q4tak7tuqo2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsoles.mobile.noteflush.debug"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

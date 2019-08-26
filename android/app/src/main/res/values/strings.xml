@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noteflush</string>
+
+    <string name="server_client_id">1061330149592-88bpsffm3pccul41bjssdp8v3q8ue7bl.apps.googleusercontent.com</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+    <string name="facebook_app_id">2112378192399796</string>
+
+    <string name="fb_login_protocol_scheme">fb2112378192399796</string>
+
+
+</resources>
